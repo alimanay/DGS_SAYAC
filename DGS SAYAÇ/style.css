@@ -1,0 +1,29 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+#box{
+text-align: center;
+justify-content: center;
+align-items: center;
+display: inline-block;
+border-radius: 40px;
+background-color: #f1f1f1;
+font-size:larger;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+box-shadow: 10px 10px 10px 10px #888888;
+}
+#paragraph{
+    padding: 20px;
+}
+footer {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    position: fixed;bottom: 0;
+}
+
+
